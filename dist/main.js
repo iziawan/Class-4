@@ -1,0 +1,15 @@
+"use strict";
+const myName = "Fiza Awan";
+const myFatherName = "Nawaz Awan";
+let myAge = 17.55555;
+const myDateOfBirth = "14 oct 2006";
+let amIStudent = true;
+let amIGood;
+let chemCopy = null;
+console.log("My Name: ", myName.toLocaleUpperCase());
+console.log("My Father Name: ", myFatherName.toUpperCase());
+console.log("My Age: ", myAge.toFixed(1));
+console.log("Date of Birth: ", myDateOfBirth);
+console.log("I am student: ", amIStudent.valueOf());
+console.log("Am I good?: ", amIGood);
+console.log("Chemistry copy state: ", chemCopy);
